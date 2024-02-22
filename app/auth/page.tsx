@@ -1,6 +1,10 @@
 
 const Auth = () => {
-    return (  );
+    return ( 
+        <div>
+            Login Form
+        </div>
+     );
 }
  
 export default Auth;
